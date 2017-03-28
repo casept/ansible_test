@@ -7,7 +7,7 @@
       user: vagrant 
       state: present
       #Replace this with a link to your own SSH pubkey
-      key: https://gist.githubusercontent.com/casept/4704735c70870f26c942a08cdaedfbda/raw/37922cf65126bc0d38b52a818ce97617f7f4ad85/gistfile1.txt 
+    key: https://gist.githubusercontent.com/casept/a9e08537bed4c80fca44e0bf7b02b734/raw/acf64c5e3eca510b0b443bf67c15bfca78c1d39c/gistfile1.txt 
 
     
 ...
